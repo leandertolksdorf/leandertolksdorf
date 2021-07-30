@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hello! I'm a web/app developer from Berlin, Germany.
+
+#### I'm experienced in building applications with:
+- Express
+- React
+- MongoDB
+- PostgreSQL
+- Docker
+- Heroku
+
 
 <!--
 **leandertolksdorf/leandertolksdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
